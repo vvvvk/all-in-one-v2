@@ -1,10 +1,11 @@
 data/data.py
 data/wallets.txt
 data/proxies.txt
+data/api.txt
 test.py
 test.json
-results/debank.csv
-results/debank.txt
+results/debank*.csv
+results/debank*.txt
 results/nft_balances.csv
 results/tx_checker.csv
 results/web3_balances.csv
